@@ -1,1 +1,17 @@
 /* your code */
+table{
+	height:100px;
+	width:500px;
+	border-radius:20pxpx;
+	border-collapse: collapse;
+}
+table thead{
+	background-color:#215a8e;
+	color:white;
+}
+table td{
+	text-align:center
+}
+.colr{
+	background-color:#dddddd;
+}
